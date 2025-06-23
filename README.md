@@ -1,2 +1,2 @@
 # LeetCoding
-Leet Code practice 
+Leet Code practice - Attempting Daily Problems (Life Permitting)
